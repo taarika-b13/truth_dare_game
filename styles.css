@@ -1,0 +1,33 @@
+#title {
+font-size: 100px;
+display: flex;
+justify-content: center;
+
+ }
+
+
+.titlecontainer{
+  color: blue;
+  border: 10px solid black;
+  background-image: url("https://media.giphy.com/media/5bDAc3il2DySZAFGpQ/giphy.gif");
+  background-size: 100%;
+  background-repeat: repeat;
+
+}
+
+
+.truthbutton{
+font-size: 75px;
+display: flex;
+justify-content: space-between;
+background-color: red;
+
+
+}
+
+
+.darebutton{
+font-size: 75px;
+justify-content: space-between;
+background-color: purple;
+}
